@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ask Her Out</title>
+
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="tenor-gif-embed" data-postid="15062598587219580285" data-share-method="host" data-aspect-ratio="1.00917" data-width="100%"><a href="https://tenor.com/view/banana-cat-banana-cat-crying-gif-15062598587219580285">Banana Cat Banana Cat Crying GIF</a>from <a href="https://tenor.com/search/banana+cat-gifs">Banana Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        </script>
+      <h1>Sure na gid na no baby?😭</h1>
+      <p>Please naman ako'y na cry na </p>
+
+      <div class="btn">
+        <a href="yes.html">Yes</a>
+        <a href="#" id="move-random">No</a>
+      </div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
